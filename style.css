@@ -1,0 +1,68 @@
+header{
+    font-family: 'Courier New';
+    letter-spacing: -2px;
+    font-style: italic;
+}
+article{
+    font-family: 'Courier New'; 
+    letter-spacing: -2px;
+    font-style: italic;
+}
+
+aside{
+    font-family: Cantarell;
+    font-size: 20px;
+    position: absolute;
+    left: 250px;
+    top: 100px;
+    width: 500px;
+    border: solid 5px #154a4b;
+    border-radius: 10px;
+    border-style: outset;
+    background-color: #7f1f8a;
+    height: 150px;
+}
+body{
+    background-color: #61E786;
+}
+.habilidades-lista{
+    font-size: 25px;
+    font-style: italic;
+}
+.foto{
+    border: solid 5px #154a4b;
+    border-radius: 500px;
+    border-style: outset;
+    padding: 5px;
+    background-color: #216869;
+}
+.nome{
+    border: solid #154a4b 5px;
+    background-color: #216869;
+    width: 365px;
+    height: 35px;
+    overflow: hidden;
+    border-radius: 10px;
+    border-style: outset;
+}
+.borda{
+    border: solid 5px #154a4b;
+    border-radius: 10px;
+    width: 190px;
+    background-color: #216869;
+    border-style: outset;
+}
+#linkedin{
+    position: absolute;
+    left: 220px;
+    top: 170px;
+    z-index: 1;
+}
+#Github{
+    position: absolute;
+    left: 340px;
+    top: 176px;
+}
+#nome-descricao{
+    font-style: italic;
+}
